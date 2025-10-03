@@ -1,2 +1,2 @@
 # PythonProjectforDS
-For course
+For coursera
